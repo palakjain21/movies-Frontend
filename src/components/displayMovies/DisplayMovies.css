@@ -1,0 +1,29 @@
+.table{
+    width: 80%;
+    padding: 2rem;
+    margin: 2rem;
+}
+th{
+    color: grey !important;
+}
+td{
+    color: white !important;
+}
+.icons{
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+}
+.displayTable{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+.form-select{
+    width: 30% !important;
+    display: flex;
+    margin-right: 9.5rem;
+    align-self: flex-end;
+}
